@@ -2,11 +2,13 @@
 
 Meu nome é Isabelly, mas me chame de Isa pfv.
 
--Estou estudando na Alura
+-Estou estudando na Alura;
 
--Estou me desenvolvendo na linguagem JavaScript
+-Estou me desenvolvendo na linguagem JavaScript;
 
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos;
+
+-Matéria de Pensamento Computacional.
 
 ![](https://media.tenor.com/7RoKGSkAV7oAAAAM/larry-johnson-sal-fisher.gif)
 ![](https://media.tenor.com/_Gs5V-Cp4cwAAAAM/pennywise-britney-spears.gif)

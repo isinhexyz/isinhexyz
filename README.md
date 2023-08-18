@@ -1,7 +1,6 @@
 ### yoooo
-### oioi
 
-Meu nome é Isabelly, mas me chame de Isa.
+Meu nome é Isabelly, mas me chame de Isa pfv.
 
 -Estou estudando na Alura
 
